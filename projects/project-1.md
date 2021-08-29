@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/hexsudoku_preview.png
+title: Hexadecimal Sudoku
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-10-29
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Recursion
+  - Indiviual Project
+summary: In class 211, I created a hexadeciaml sudoku solver by using recursion method.
 ---
 
 <div class="ui small rounded images">
