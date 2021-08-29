@@ -47,7 +47,7 @@ Here is implentmented boolean function to check rather Sudoku is solved or not:
   }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+View the source code(https://github.com/cathy-kim95/Hexadeciaml-Sudoku).
 
 
 
