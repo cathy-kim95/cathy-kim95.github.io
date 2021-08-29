@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/hexsudoku_preview.png
-title: Hexadecimal Sudoku
+title: Hexadecimal Sudoku Solver
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-29
@@ -17,22 +17,34 @@ summary: In class 211, I created a hexadeciaml sudoku solver by using recursion 
   <img class="ui image" src="../images/hexsudoku_preview.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In my ICS211 course, I was tasked to implement a recursive method to find a solution to 16x16 hexadecimal sudoku. A sudoku is a 16x16 grid of integers with values of 0 to F. Also, sudoku is valid when each 16 rows, 16 columns and 4x4 boxes in the grid has to have only one of 0 to F values without any duplicates. The recursive method to find the valid solution of the sudoku was the following:
 
-Here is some code that illustrates how we read values from the line sensors:
+  1. If all cells are filld, see if this Sudoku is valid. If it is valid, we have found a solution. If not, this Sudoku is not a solution. [Base case 1].
+  2. If at least one cell is not filled, see what values are legal for this cell.
+
+The algorithm of this assinment was an example of backtracking. From a starting point, it tries to search a vaild value and it retun to starting point to try a different option until all values have been tried.
+
+
+Here is implentmented boolean function to check rather Sudoku is solved or not:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+  public static boolean solveSudoku(int[][] sudoku) {
+
+    // check sudoku is solved, if it is not solved then loop
+    if (checkSudoku(sudoku, false)) {
+      // loop through the sudoku row and column
+      for (int row = 0; row < sudoku.length; row++) {
+        for (int column = 0; column < sudoku.length; column++) {
+          // if sudoku has a empty space then return fillCell method
+          if (sudoku[row][column] == -1) {
+            return fillCell(sudoku, row, column);
+          }
+        }
+      }
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+    return checkSudoku(sudoku, false);
+  }
 ```
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
