@@ -46,7 +46,7 @@ Here is one example of my implentmention for the project, which to check Sudoku 
   }
 ```
 
-View the source code(https://github.com/cathy-kim95/Hexadeciaml-Sudoku).
+View: <a href="https://github.com/cathy-kim95/Hexadeciaml-Sudoku">.
 
 
 
