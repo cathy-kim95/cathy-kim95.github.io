@@ -18,12 +18,12 @@ summary: I created a Hexadecimal Sudoku Solver for my ICS211 class using recursi
 </div>
 
 
-In my ICS211 course, I was tasked to implement a recursive method to find a solution to 16x16 Hexadecimal Sudoku. Professor Moore provided a format of the Sudoku code and our classmate have to implement the code. This particular assignment setted up by Sudoku is a 16x16 grid of integers with values of 0 to F. The valid answer for the Sudoku problem was each row, each column, and each 4x4 grid must have only one of 0 to F values without any duplicates. The recursive method to find the valid solution of the sudoku was the following:
+In my ICS211 course, I was tasked to implement a recursive method to find the solution to 16x16 Hexadecimal Sudoku. Professor Moore provided a format of the Sudoku code, and our classmates have to implement the code. The Hexadecimal Sudoku was a 16x16 grid of integers with values of 0 to F. The valid answer for the Sudoku problem was it must have only one of 0 to F values without any duplicates among each row, each column, and each 4x4 grid. The recursive method to find the valid solution of the sudoku was the following:
 
   1. If all cells are filld, see if this Sudoku is valid. If it is valid, we have found a solution. If not, this Sudoku is not a solution. [Base case 1].
   2. If at least one cell is not filled, see what values are legal for this cell.
 
-The algorithm of this assignment was an example of backtracking. From a starting point, it tries to search a vaild value and it retun to starting point if they cannot find an valid value. This algorithm keep tries to find a different option until all values have been tried.
+The algorithm of this assignment was an example of backtracking. This code tries to search for a valid value from a starting point, and it returns to the starting point if it cannot find any valid value. This recursion method keeps running to find a different option until all values have been tried.
 
 
 Here is one example of my implentmention for the project, which to check Sudoku is solved or not:
@@ -46,7 +46,7 @@ Here is one example of my implentmention for the project, which to check Sudoku 
   }
 ```
 
-View the source code(https://github.com/cathy-kim95/Hexadeciaml-Sudoku).
+View: (https://github.com/cathy-kim95/Hexadeciaml-Sudoku).
 
 
 
