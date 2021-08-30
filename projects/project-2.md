@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cartoon-calculator-006.jpg
-title: Postfix Calculator
+title: Postfix Prefix Calculator
 permalink: projects/calculator
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-15
@@ -10,15 +10,14 @@ labels:
   - Javascript
   - Postfix Calculator
   - Stack
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: I created a Postfix and Prefix Calculator using Stack in ICS211 course.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/cartoon-calculator-006.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+In my ICS211 course, I was tasked to implement the Postfix and Prefix Calculator to do the math. Professor Moore provided a format of the code, and I had to implement the function which calculates the answer to the pre-fix and post-fix expression which returns it as a Number. My code should return an Integer when doing int math and a Double when doing floating point math.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In this project I learned post-fix and pre-fix calculation, and also the principles of Stack ADT. For instance, we can only access the top of the stack and stack is usually known as LIFO (last in first out). I also gained more experience with Javascript using a stack to store information.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
