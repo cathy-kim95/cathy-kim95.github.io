@@ -9,7 +9,9 @@ labels:
   - Education
 ---
 
-<img class="ui tiny right spaced image" src="../images/javascript_image.png">
+<img class="ui large left floated image" src="../images/javascript_image.png">
+
+
 JavaScript was the first computer language that I learned when I attend to ICS course. Therefore, it is comfortable language than other programming languages because it is my primary language. However, I learned various fundamental programming concepts of JavaScript by using a FreeCodeCamp in my ICS314 Software Engineering course. The basic structures of JavaScript and working with an array, objects, functions, loops, and if/else statements were not a new concept, but  ECMAScript was brand new material that I did not encounter before. The features such as let, arrow function in JavaScript, and promises were very new to me, and I was glad to learn new features about JavaScript.
 
 
