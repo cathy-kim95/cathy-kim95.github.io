@@ -20,3 +20,14 @@ Some people say JavaScript is not a good programming language. However, I think 
 
 
 In my ICS314 class, our classmates suppose to do WODs(workout of the day) as a group and as an individual. We have to set up the timer and work on the code within the prescribed time. This style of learning involved critical thinking because I have to prepare for the WODs, and it makes me think about how to tackle the problem. It basically tests my programming skills, but also how to use time wisely. I do enjoy WODs, but it is stressful at the same time. However, I am certainly aware that this strategy will develop my programming skills more powerful.
+
+
+
+
+
+
+
+
+
+
+
