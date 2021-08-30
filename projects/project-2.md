@@ -15,9 +15,10 @@ summary: I created a Postfix and Prefix Calculator using Stack in ICS211 course.
 
 <img class="ui medium right floated rounded image" src="../images/cartoon-calculator-006.jpg">
 
-In my ICS211 course, I was tasked to implement the Postfix and Prefix Calculator to do the math. Professor Moore provided a format of the code, and I had to implement the function which calculates the answer to the pre-fix and post-fix expression which returns it as a Number. My code should return an Integer when doing int math and a Double when doing floating point math.
+In my ICS211 course, I was tasked to implement the Postfix and Prefix Calculator to calculate the given expression. Professor Moore provided a format of the code, and our classmates had to implement the code to calculate the answer and returns it as a Number. The main theme of this assignment was using a Stack to keep track of the operands. Our code must return an Integer when it received int math and a Double when it received floating point math.
 
-In this project I learned post-fix and pre-fix calculation, and also the principles of Stack ADT. For instance, we can only access the top of the stack and stack is usually known as LIFO (last in first out). I also gained more experience with Javascript using a stack to store information.
+
+By doing this assignment, I learned the concepts of post-fix and pre-fix calculation. Furthermore, I was able to learn what is the Stack ADT. For instance, we can only access the top of the stack and stack is usually known as LIFO (last in first out). I gained more experience with Javascript using a stack to store information.
 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
