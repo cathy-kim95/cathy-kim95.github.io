@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/University_of_Hawaii.png
 title: B.S. ICS in UH at Manoa
 permalink: projects/BSManoa
 # All dates must be YYYY-MM-DD format!
