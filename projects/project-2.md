@@ -8,9 +8,10 @@ permalink: projects/calculator
 date: 2020-10-15
 labels:
   - Javascript
-  - Postfix Calculator
+  - Post-fix
+  - Pre-fix
   - Stack
-summary: I created a Postfix and Prefix Calculator using Stack in ICS211 course.
+summary: I created a Post-fix and Pre-fix Calculator for my ICS211 class using Stack ADT.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/cartoon-calculator-006.jpg">
