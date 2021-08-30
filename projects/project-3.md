@@ -20,5 +20,5 @@ Starting from the 2020 Spring, my major goal in my life is getting a B.S. in Com
 
 Unfortunately, I thought Computer Science would be easier for me. This thought faded away immediately when I attended the ICS211 course because I had to spend tremendous amount of time on assignments. However, I thought it was fun because I was learning something by completing the assignments. For example, I learned significant materials such as Javascript, algorithms, data structures, implementations, and more.
 
-Now it is 2021 Fall. These days I am attending algorithm and soft engineering courses, and the quality of education even got harder. I can feel I have to put more effort than ICS211, but this also means that I can learn many things from the courses. I will be tasked to do much more projects and learn much more new materials. I am glad that I can learn more about Computer Science before getting a job in this field.
+Now it is 2021 Fall. These days I am attending algorithm and soft engineering courses, and the quality of education even got harder. I can feel I have to put more effort than I did before, but this also means that I can learn many things from the courses. I will be tasked to do much more projects and learn much more new materials. I am glad that I can learn more about Computer Science before getting a job in this field.
 
