@@ -22,9 +22,9 @@ I am a computer science major despite I do not know much about software engineer
 
 
 
-Like I stated above, I did not have any chance to develop a program. I was assigned to do the assignments, and mostly it was just running the code. What I picked up? I learned how to code the computer language, but it did not help me understand the problem theologically. My interest in software engineering is simple. I want to learn how software is working and how to design them.
+Like I stated above, I did not have any chance to develop a program. I was assigned to do the assignments, and mostly it was just running the code. What I picked up? I learned how to code the computer language, but it did not help me understand the problem theoretically. My interest in software engineering is simple. I want to learn how software is working and how to design them.
 
-Besides, I also did not have any chance to work as a team. I heard working as a team is a significant feature of the computer science field. My other interest in the course is to learn how to work as a team to accomplish the goal. Learning to cooperate with others as a teammate will make me an efficient programmer when I jump into the real world. Those are the principal theme that I am looking forward to in the ICS314. Now I will start my journey soon to learn a tremendous amount of real-world programming.
+Besides, I also did not have any chance to work as a team. I heard working as a team is a significant feature of the computer science field. My other interest in the course is to learn how to work as a team to accomplish the goal. Learning to cooperate with others as a teammate will make me an efficient programmer when I jump into the real world. Those are the principal theme that I am looking forward to in the ICS314.
 
 
 
