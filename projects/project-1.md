@@ -46,7 +46,7 @@ Here is one example of my implentmention for the project, which to check Sudoku 
   }
 ```
 
-View: <a href="https://github.com/cathy-kim95/Hexadeciaml-Sudoku"> Hexadeciaml-Sudoku.
+View: <a href="https://github.com/cathy-kim95/Hexadeciaml-Sudoku"> Hexadeciaml-Sudoku
 
 
 
