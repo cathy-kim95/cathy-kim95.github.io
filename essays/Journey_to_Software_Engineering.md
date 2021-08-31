@@ -13,7 +13,8 @@ labels:
 ## Software Engineering
 
 
-To tell the truth, I do not know much about software engineering despite I am pursuing computer science. Software engineering is a core course of the computer science major, and yet I do not know much of it. What I know about software engineering is that it is designing and developing a software application that we used in daily life. For instance, mobile applications are part of software engineering. We use it every day, but not knowing how is it works.
+I am a computer science major despite I do not know much about software engineering. When I hear about software engineering, I feel a bit anxious about it. It is because I have no clue what I'm going to learn, and it is a core course of the computer science major. The small piece that I know about software engineering is that it is about designing software applications. I was a student who was eager to learn design and develop software, but I had no chance to learn it before. Now is the time for my journey how to design and develop my software.
+
 
 
 
@@ -21,11 +22,9 @@ To tell the truth, I do not know much about software engineering despite I am pu
 
 
 
-In my past classes, I did not have any chance to work as a team. Every assignment was an individual project, and I heard working as a team is a significant feature for the ICS major. My interest in software engineering is developing my programming skills, but also learn how to work as a team to accomplish a goal. I believe learning how to cooperate with others will make me an efficient programmer in my future career.
+Like I stated above, I did not have any chance to develop a program. I was assigned to do the assignments, and mostly it was just running the code. What I picked up? I learned how to code the computer language, but it did not help me understand the problem theologically. My interest in software engineering is simple. I want to learn how software is working and how to design them.
 
-
-As I stated above, one of my interests is developing my programming skills. I guarantee software engineering will require a variety of programming skills, and this will build up my skill set of programming. I am excited to learn more features about programming and how the software works throughout the course.
-
+Besides, I also did not have any chance to work as a team. I heard working as a team is a significant feature of the computer science field. My other interest in the course is to learn how to work as a team to accomplish the goal. Learning to cooperate with others as a teammate will make me an efficient programmer when I jump into the real world. Those are the principal theme that I am looking forward to in the ICS314. Now I will start my journey soon to learn a tremendous amount of real-world programming.
 
 
 
