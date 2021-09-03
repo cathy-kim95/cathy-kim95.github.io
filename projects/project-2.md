@@ -20,11 +20,10 @@ In my ICS211 course, I was tasked to implement the Postfix and Prefix Calculator
 
 
 
-By doing this assignment, I learned the concepts of post-fix and pre-fix calculation. Furthermore, I was able to learn how to use Stack ADT. For instance, we can only access the top of the stack and stack is usually known as LIFO (last in first out). I gained more experience with Javascript using a stack to store information.
+By doing this assignment, I learned the concepts of post-fix and pre-fix calculation. Furthermore, I was able to learn how to use Stack ADT. For instance, we can only access the top of the stack, and stack is usually known as LIFO (last in first out). I gained more experience with Javascript using a stack to store information.
 
 
 Here is my code example for reversing the string for the pre-fix calculate:
-
 ```js
   private String reverse(String s) {
 
