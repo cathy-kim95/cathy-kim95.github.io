@@ -14,7 +14,7 @@ labels:
 summary: I created a Post-fix and Pre-fix Calculator for my ICS211 class using Stack ADT.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/cartoon-calculator-006.jpg">
+<img class="ui medium right floated rounded image" src="../images/calc.jpg">
 
 In my ICS211 course, I was tasked to implement the Postfix and Prefix Calculator to calculate the given expression. The assignment was an individual project. Professor Moore provided a format of the code, and our classmates had to implement the code to calculate the answer and returns the solution. The main theme of this assignment was using a Stack to keep track of the operands. Our code must return an Integer when it received int math and a Double when it received floating point math.
 
