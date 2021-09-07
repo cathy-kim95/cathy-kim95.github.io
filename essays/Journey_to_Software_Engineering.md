@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img class="ui medium left floated image" src="../images/Software-engineering.jpg">
+<img class="ui medium left floated image" src="../images/journey.jpg">
 
 ## Software Engineering
 
@@ -18,6 +18,7 @@ I am a computer science major despite I do not know much about software engineer
 
 
 
+<img class="ui medium middle floated image" src="../images/Software-engineering.jpg">
 ## My Interest
 
 
