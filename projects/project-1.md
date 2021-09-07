@@ -13,9 +13,9 @@ labels:
 summary: I created a Hexadecimal Sudoku Solver for my ICS211 class using recursion method.
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui medium left floated rounded image" src="../images/hexsudoku_preview.png">
-</div>
+
+<img class="ui medium left floated rounded image" src="../hexsudoku_preview.pn">
+
 
 
 In my ICS211 course, I was tasked to implement a recursive method to find the solution to 16x16 Hexadecimal Sudoku. Professor Moore provided a format of the Sudoku code, and our classmates had to complete the code that was provided. The implemented Hexadecimal Sudoku was a 16x16 grid of integers with values of 0 to F. The valid answer for the Sudoku problem was it must have only one of 0 to F values without any duplicates among each row, each column, and each 4x4 grid. The recursive method to find the valid solution of the sudoku was the following:
