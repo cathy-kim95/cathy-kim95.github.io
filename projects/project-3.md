@@ -13,7 +13,7 @@ labels:
 summary: Getting a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/University_of_Hawaii.png">
+<img class="ui image medium" src="{{ site.baseurl }}/images/University_of_Hawaii.png">
 
 
 Starting from the 2020 Spring, my most and desire goal in my life is getting a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I chose to pursue a Computer Science major because I was the person who loved being on a computer. I used the computer for my education and also used it to play games. I eventually thought it would be great to learn how a computer works in detail. Also, I was eager to learn how to program the materials that I usually use.
