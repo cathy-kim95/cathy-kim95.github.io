@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img class="ui medium left floated image" src="../images/journey.jpg">
+<img class="ui medium circular image" src="../images/journey.jpg">
 
 ## Software Engineering
 
