@@ -14,7 +14,7 @@ summary: I created a Hexadecimal Sudoku Solver for my ICS211 class using recursi
 ---
 
 
-<img class="ui medium left floated rounded image" src="../hexsudoku_preview.pn">
+<img class="ui medium left floated rounded image" src="../hexsudoku_preview.png">
 
 
 
