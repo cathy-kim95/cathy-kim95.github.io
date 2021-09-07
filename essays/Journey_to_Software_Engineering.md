@@ -10,7 +10,7 @@ labels:
 ---
 <img class="ui centered big circular image" src="../images/journey.jpg">
 
-## Software Engineering
+# Software Engineering
 
 
 I am a computer science major despite I do not know much about software engineering. When I hear about software engineering, I feel a bit anxious about it. It is because I have no clue what I'm going to learn, and it is a core course of the computer science major. The small piece that I know about software engineering is that it is about designing software applications. I was a student who was eager to learn design and develop software, but I had no chance to learn it before. Now is the time for my journey how to design and develop my software.
@@ -19,6 +19,8 @@ I am a computer science major despite I do not know much about software engineer
 
 
 <img class="ui medium middle floated image" src="../images/Software-engineering.jpg">
+
+
 ## My Interest
 
 
