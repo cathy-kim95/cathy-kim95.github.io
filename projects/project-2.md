@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cartoon-calculator-006.jpg
+image: images/calc.jpg
 title: Postfix Prefix Calculator
 permalink: projects/calculator
 # All dates must be YYYY-MM-DD format!
