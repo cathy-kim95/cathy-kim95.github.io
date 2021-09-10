@@ -17,7 +17,7 @@ labels:
 Computer programming has become more doable in recent years. People easily learn how to code from YouTube channels and use free code editors (e.g., JSFiddle) to play around with it. The problem occurs when they are stuck with their code. In the programming world, there are various forums or communities to ask questions, and those questions are mostly welcomed by the users. They are glad to help those who are having a problem with their code because they also learn from the good questions. However, many people throw some not intelligent questions, and usually, it gets ignored by the experts. Why is it? It is because it is not a valuable question to answer.
 
 According to Eric Steven Raymond,
-> …throw away questions from people who appear to be losers in order to spend our question-answering time more efficiently, on winners.
+`> …throw away questions from people who appear to be losers in order to spend our question-answering time more efficiently, on winners.`
 
 ## Intelligent Question vs Unintelligent Question
 
