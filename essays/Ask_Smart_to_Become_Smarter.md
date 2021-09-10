@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Ask Smarter to Become Smarter"
+title: "Ask Smart to Become Smarter"
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-09
 labels:
