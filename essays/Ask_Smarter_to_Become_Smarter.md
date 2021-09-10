@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui centered image large rounded" src="../images/question.jpg">
+<img class="ui centered image medium rounded" src="../images/question.jpg">
 
 ## Why Ask Smart Question?
 
@@ -29,8 +29,7 @@ On the other hand, this [_"Why is processing a sorted array faster than processi
 <img class="ui medium right floated rounded image" src="../images/brain.png">
 
 ## Overall
-When I was learning Java from previous classes, I was the one who was asking unintelligent questions. I usually put my code on the monitor and saying, “My code is not working. Can you help me?” This was a stupid way to ask a question because I was not learning from it. I could have asked a smarter way and could learn more efficiently. Oftentimes I did not learn efficiently from my TA who corrected my code. Since I realized how to ask smarter questions, I often get the solution from myself. When my code is not working, I search the error message and figure out why it is not working properly. By doing this, I can learn more efficiently because I can understand the functions in-depth by reading the definitions and examples.
-
+When I was learning Java from previous classes, I was the one who was asking unintelligent questions. I usually put my code on the monitor and saying, “My code is not working. Can you help me?” This was a stupid way to ask a question because I was not learning from it. I could have asked a smarter way and could learn more efficiently. Oftentimes I did not learn efficiently from my TA who corrected my code. Since I realized how to ask smarter questions, I often get the solutions from the internet. I ask myself what is the meaning of the error and what do I want to do with my code. After questioning myself, I search the error code and read few similar problems. I did learn more efficiently by doing this learning strategy. It helped me to understand the functions in-depth by reading the definitions and examples from the internet.
 
 
 
