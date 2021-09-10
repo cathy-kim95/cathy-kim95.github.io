@@ -26,7 +26,7 @@ The smart question is simple. Before asking a question, we need to try to find a
 On the other hand, this [_"Why is processing a sorted array faster than processing an unsorted array?"_](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) question is considered as a smart question. It contains the codes that the person was working and clearly explained the problem that was occurring. As a result, this question got 25813 votes with 27 answers from others. The well explained details provided clear understanding of the question, and the person was able to get the valuable answers.
 
 
-<img class="ui small right floated rounded image" src="../images/brain.png">
+<img class="ui medium right floated rounded image" src="../images/brain.png">
 
 ## Overall
 When I was learning Java from previous classes, I was the one who was asking unintelligent questions. I usually put my code on the monitor and saying, “My code is not working. Can you help me?” This was a stupid way to ask a question because I was not learning from it. I could have asked a smarter way and could learn more efficiently. Oftentimes I did not learn efficiently from my TA who corrected my code. Since I realized how to ask smarter questions, I often get the solutions from the internet. I ask myself what is the meaning of the error and what do I want to do with my code. After questioning myself, I search the error code and read few similar problems. I did learn more efficiently by doing this learning strategy. It helped me to understand the functions in-depth by reading the definitions and examples from the internet.
