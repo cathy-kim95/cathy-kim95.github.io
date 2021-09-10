@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Ask Smart to Become Smart"
+title: "Ask Smarter to Become Smarter"
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-09
 labels:
@@ -9,6 +9,8 @@ labels:
   - Stack Overflow
   - Javascript
 ---
+
+
 
 ##Ask smarter way to become smarter
 
