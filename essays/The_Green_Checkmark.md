@@ -18,7 +18,7 @@ Some might think why the coding standard is important, as I did before. Once I b
 
 In my ICS314 course, I finally learned and discovered why the coding standard is important to programmers. The coding standard makes it easy to read and it ensures our codes look readable. It was the basics of coding. People must read our code and understand it without questioning. Programming has a close relation with teamwork because mostly programmers work together as a team. We must provide readable code to our teammates, and work through the process without lagging behind by understanding the code.
 
-<img class="ui medium right floated rounded image" src="../images/greencheckmark.png">
+<img class="ui small right floated rounded image" src="../images/greencheckmark.png">
 
 ## ESLint
 
