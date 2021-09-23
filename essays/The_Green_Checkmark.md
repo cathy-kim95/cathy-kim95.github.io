@@ -10,7 +10,7 @@ labels:
   - IntelliJ
 ---
 
-<img class="ui centered image medium rounded" src="../images/linesofCode.jpg">
+<img class="ui centered image huge rounded" src="../images/linesofCode.jpg">
 
 ## Coding Standard?
 
