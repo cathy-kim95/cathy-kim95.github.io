@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img class="ui centered image medium rounded" src="../images/radgrad_logo.png">
+<img class="ui left floated image medium rounded" src="../images/radgrad_logo.png">
 
 ## Why RadGrad?
 
