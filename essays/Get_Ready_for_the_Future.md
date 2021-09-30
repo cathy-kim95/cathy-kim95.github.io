@@ -17,6 +17,5 @@ Usually, a fair amount of students struggle with what they want to do after when
 
 RadGrad provides various opportunities that I can take of. For instance, it suggests a variety of community events, and it helps me to plan my degree program more effectively. These two features are exactly what I wanted from the beginning of my education. I always wanted to join a certain community and develop interaction skills with like-minded students. RadGrad provides me a various of communities that I can join and it makes a lot easier to see what community is the best fit for me.
 
-As an undergraduate student, I think RadGrad is a great tool to use to adjust my planning for my education and career goal. Using the planner and reading the reviews for the course gave me further insight into my degree plan. Moreover, communities that are listed in the RadGrad helps me to find like-minded people.
-
+As an undergraduate student, I think RadGrad is a great tool to use to adjust my planning for my education and target my career goal. Using the planner and reading the reviews for the course gave me further insight into my degree plan. Moreover, exploring the career goals gives me an interest in a specific career. I like how it recommends the related courses and related opportunities when I choose certain career goals. I believe that the RadGrad, the intelligent supporter, makes me easier to get ready for my future career.
 
