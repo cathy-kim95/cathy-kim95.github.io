@@ -10,4 +10,4 @@ labels:
   - HTML
 ---
 
-<img class="ui centered image large rounded" src="../images/semanticLOGO.jpg">
+<img class="ui centered image large rounded" src="../images/semanticLOGO.png">
