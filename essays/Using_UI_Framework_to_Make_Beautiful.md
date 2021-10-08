@@ -26,10 +26,12 @@ After learning how to use the UI framework, there was no point in using raw HTML
 
 <img class="ui centered image massive" src="../images/historyofsurfing.png">
 
-This screenshot was the first web page that I made without a Semantic UI. I have a hard time overlapping the text on the image. Also, I could not make a margin between the photos.
+The above screenshot was the first web page that I made without a Semantic UI. I had a hard time overlapping the text on the image. Also, I could not make a margin between the photos which made my web page ugly.
 
 
 <img class="ui centered image massive" src="../images/marshall.png">
 
-This screenshot was the web page with Semantic UI that I benchmarked [Marshall headphones](https://www.marshallheadphones.com/us/en/). It looks beautiful with the automatic margins by containers, the legible menu bar at the top with icons on the right.
+The above screenshot was the web page with Semantic UI that I recreated [Marshall Headphones](https://www.marshallheadphones.com/us/en/). It looks beautiful with the automatic margins by containers, the legible menu bar at the top with icons on the right.
+
+Recreating the Marshall web page was easier and took less time than the first one. Therefore, I cannot think of any reason why to use raw HTML and CSS.
 
