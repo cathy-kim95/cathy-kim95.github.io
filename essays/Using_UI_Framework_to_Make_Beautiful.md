@@ -24,12 +24,12 @@ After learning how to use the UI framework, there was no point in using raw HTML
 
 ## Examples
 
-<img class="ui left image large" src="../images/historyofsurfing.png">
+<img class="ui centered image massive" src="../images/historyofsurfing.png">
 
 This screenshot was the first web page that I made without a Semantic UI. I have a hard time overlapping the text on the image. Also, I could not make a margin between the photos.
 
 
-<img class="ui left image large" src="../images/marshall.png">
+<img class="ui centered image massive" src="../images/marshall.png">
 
 This screenshot was the web page with Semantic UI that I benchmarked [Marshall headphones](https://www.marshallheadphones.com/us/en/). It looks beautiful with the automatic margins by containers, the legible menu bar at the top with icons on the right.
 
