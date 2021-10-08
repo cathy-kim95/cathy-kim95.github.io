@@ -22,7 +22,14 @@ Fortunately, and thankfully, there was a helper for me. **UI framework**. I did 
 
 After learning how to use the UI framework, there was no point in using raw HTML and CSS because the UI framework makes life easier. I do not have to spend time making the equal size of sections, menu bar, using an image as background, etc. Additionally, I could not find any problem with using a Semantic UI. The brief explanation and example codes on the [Semantic UI](https://semantic-ui.com/) were very helpful. Now I cannot imagine designing a web page without Semantic UI. It is a powerful and wonderful tool to make my ugly page into a beautiful-looking page.
 
+## Examples
+
+<img class="ui left image large" src="../images/historyofsurfing.png">
+
+This screenshot was the first web page that I made without a Semantic UI. I have a hard time overlapping the text on the image. Also, I could not make a margin between the photos.
 
 
+<img class="ui left image large" src="../images/marshall.png">
 
+This screenshot was the web page with Semantic UI that I benchmarked [Marshall headphones](https://www.marshallheadphones.com/us/en/). It looks beautiful with the automatic margins by containers, the legible menu bar at the top with icons on the right.
 
