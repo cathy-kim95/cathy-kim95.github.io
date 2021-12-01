@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui centered image medium rounded" src="../images/patterns.png">
+<img class="ui centered image huge rounded" src="../images/patterns.png">
 
 ## What is Pattern?
 
