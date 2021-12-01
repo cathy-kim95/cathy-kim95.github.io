@@ -21,9 +21,10 @@ Now, come back to the programming, I have not heard of **design patterns** until
 ## What did I use? When did I use?
 
 <img class="ui medium right floated rounded image" src="../images/factory.jpg">
-<img class="ui medium left floated rounded image" src="../images/singleton.png">
+
 When I took the ICS212, we had to implement the code to find the area, surface area, and volume of different shapes. That was my first encounter with design patterns. We used a **factory design pattern** (although I did not know it was a design pattern) and performed the calculations for each shape. It was very useful method because I was able to return objects from different classes (shapes) and return multiple objects (area, surface area, and volume) without recalculating it.
 
+<img class="ui medium left floated rounded image" src="../images/singleton.png">
 Moreover, I am still using design patterns on my final project. One example will be the **single design pattern**. We create a new profile of users (students and companies) and export it as a singleton instance of the profile collection. Therefore, we can invoke methods and manipulate the collection.
 
 Overall, there are 23 design patterns, and I am still trying to understand how to use factory and singleton design patterns more precisely. I have 21 more design patterns to learn to form an artistic cycle on my code.
