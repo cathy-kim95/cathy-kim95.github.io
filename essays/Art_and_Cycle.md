@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Life is All about Pattern"
+title: "Art and Cycle"
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-30
 labels:
