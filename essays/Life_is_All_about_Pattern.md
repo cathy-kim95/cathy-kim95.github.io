@@ -20,7 +20,7 @@ Now, come back to the programming, I have not heard of **design patterns** until
 
 ## What did I use? When did I use?
 
-<img class="ui medium right floated rounded image" src="../images/factory.png">
+<img class="ui medium right floated rounded image" src="../images/factory.jpg">
 <img class="ui medium left floated rounded image" src="../images/singleton.png">
 When I took the ICS212, we had to implement the code to find the area, surface area, and volume of different shapes. That was my first encounter with design patterns. We used a **factory design pattern** (although I did not know it was a design pattern) and performed the calculations for each shape. It was very useful method because I was able to return objects from different classes (shapes) and return multiple objects (area, surface area, and volume) without recalculating it.
 
