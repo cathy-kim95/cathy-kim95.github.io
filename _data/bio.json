@@ -53,6 +53,10 @@
         "C++",
         "Java",
         "Javascript",
+        "Meteor",
+        "React",
+        "MongoDB",
+        "Semantic UI",
       ]
     },
     {
@@ -63,10 +67,6 @@
         "Git/GitHub",
         "Eclipse IDE",
         "IntelliJ IDEA",
-        "Meteor",
-        "React",
-        "MongoDB",
-        "Semantic UI",
       ]
     }
   ],
