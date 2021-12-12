@@ -10,15 +10,15 @@ labels:
   - Ethics
 ---
 
-<img class="ui centered image huge rounded" src="../images/finish_line.png">
+<img class="ui centered image huge rounded" src="../images/finish_line.jpg">
 
 The journey of 16 weeks of software engineering was fleeting yet everlasting. I have learned numerous techniques from the course within a few months. The past few weeks were joyful and stressful at the same time, but I can definitely say that it was a valuable semester. The two fundamental software engineering concepts that stood out at this point are ethics in software engineering and agile project management. It's not only because those two were the last things that I learned from the class but they also had a great impact on me.
 
-<img class="ui medium left floated rounded image" src="../images/acm.png">
+<img class="ui medium left floated rounded image" src="../images/acm.jpg">
 
 ## Ethics?
 
-I did not realize that ethics are deeply involved in software engineering until a few weeks ago. All I cared about was programming and coding but never thought beyond it. The ACM code of ethics and professional conduct was very new to me. It was interesting to understand why <a href="https://www.acm.org/code-of-ethics">"the Code"</>is significant to all computing professionals. **Not being harmful**. It is a simple context but has a lot of meaning to it. What if the consequences were amplified online hate and failed to protect young people from harmful content? Yes, it did not avoid the harm and means it is unethical. Finally, I can see how some people or companies violate the code of ethics, resulting in a harmful impact on society. The programmers should accept and be subject to the code of ethics and must behave ethically. It is because we all have the responsibility of our work and have to support the public good.
+I did not realize that ethics are deeply involved in software engineering until a few weeks ago. All I cared about was programming and coding but never thought beyond it. The ACM code of ethics and professional conduct was very new to me. It was interesting to understand why <a href="https://www.acm.org/code-of-ethics">"the Code"</a>is significant to all computing professionals. **Not being harmful**. It is a simple context but has a lot of meaning to it. What if the consequences were amplified online hate and failed to protect young people from harmful content? Yes, it did not avoid the harm and means it is unethical. Finally, I can see how some people or companies violate the code of ethics, resulting in a harmful impact on society. The programmers should accept and be subject to the code of ethics and must behave ethically. It is because we all have the responsibility of our work and have to support the public good.
 
 ## Agile Project Management?
 
