@@ -1,71 +1,113 @@
 ---
 layout: project
 type: project
-image: images/alahele_landing.png
-title: Ala Hele
-permalink: projects/alahele
+image: images/simgrid_example2.png
+title: SimGrid XML Platform Description File Visualization
+permalink: projects/simgrid
 # All dates must be YYYY-MM-DD format!
-date: 2022-12-02
+date: 2023-04-23
 labels:
+  - Cytoscape
   - Javascript
-  - MongoDB
-  - Meteor
-  - Bootstrap
-summary: I created a website to support the Hawaii Department of Education in streamlining their state legislature process using Meteor Framework and JavaScript.
+  - React
+  - Material-UI
+summary: I created a web application to support the researchers to visualize SimGrid XML platform description files.
 ---
 
+<img class="ui centered image large rounded" src="../images/simgrid_poster.png">
 
-<img class="ui centered image large rounded" src="../images/alahele_landing.png">
+For my capstone project, I collaborated with a partner to address a common challenge faced by Computer Science researchers when conducting experiments. Many researchers encounter difficulties during experimentation, often resorting to simulation tools like SimGrid. SimGrid facilitates experimentation by allowing users to input XML files describing simulated hardware platforms.
 
+To streamline this process and enhance usability, we developed an innovative solution—an in-the-browser tool created using JavaScript. This tool enables researchers to visualize, modify, export, and even generate SimGrid XML platform description files directly within their web browsers.
 
-In my ICS314 course, I undertook the creation of a robust website using the Meteor Framework and JavaScript to support the Hawaii Department of Education in streamlining their state legislature process. I developed a comprehensive platform that enables real-time tracking of legislative measures, automated notifications, and efficient document creation and updating. The purpose of this project was to provide a tool that facilitates the passing of state legislature by offering features such as:
+<img class="ui centered image large rounded" src="../images/simgrid_example2.png">
 
-* Real-time tracking of legislative measures.
-* Automated notifications to relevant personnel when action is required.
-* Task automation for document creation and updating.
-* Advanced search functionality by key parameters and keywords.
-* Document versioning to track changes and enable easy comparison of different versions.
+The image above illustrates a simplified example of an XML file. However, envision a scenario where the XML file comprises thousands of lines of code. In response to this challenge, my partner and I developed an application to facilitate the visualization of such XML files, as depicted below:
 
-By creating this application, I aimed to streamline the legislative process and prevent measures from accidentally being retired due to disorganization or miscommunication.
+<img class="ui centered image large rounded" src="../images/simgrid_example.png">
 
-<img class="ui medium right floated rounded image" src="../images/alahele_list.png">
-
-Here is one example of my implementation for the project, which searches the certain document from many files:
+Here is one example of my implementation for the project, managing the popups for node descriptions and edited the XML file:
 ```js
- const SearchBar = () => {
-    const [search, setSearch] = useState('');
-    const onChange = (e) => {
-        setSearch(e.target.value);
+export default function PopUp({ obj, open, close, handleElements }) {
+    const [editedObj, setEditedObj] = useState(obj);
+    const [editing, setEditing] = useState(false);
+
+    // avoid for box disselection and cursor disappearance
+    const inputRef = useRef(null);
+
+    // Setting the edited object to its key
+    const handleEdit = (key, value) => {
+        setEditedObj({
+            ...editedObj,
+            [key]: value
+        });
     };
+    
+    ...
 
-    const { ready, measures } = useTracker(() => {
-        // Note that this subscription will get cleaned up
-        // when your component is unmounted or deps change.
-        // Get access to Stuff documents.
-        const subscription = Measures.subscribeMeasures();
-        // Determine if the subscription is ready
-        const rdy = subscription.ready();
-        // Get the Stuff documents
-        const measuresItems = Measures.find({}, { sort: { name: 1 } }).fetch();
-        return {
-            measures: measuresItems,
-            ready: rdy,
-        };
-    }, []);
+    // if data.id === editedObj.id, save the new value
+    const handleSave = () => {
+        handleElements(prevElements => {
+            return prevElements.map(el => {
+                if (el.data.id === editedObj.id) {
+                    return {
+                        ...el,
+                        data: {
+                            ...el.data,
+                            ...editedObj
+                        }
+                    };
+                }
+                return el;
+            });
+        });
+        close();
+        setEditing(false);
+    };
+    
+    ...
 
-    if (search === '') {
-        return <input className="inputSearch" placeholder="Search Title / Code" type="text" value={search} onChange={onChange} />;
-    }
-
-    const filterTitle = measures.filter((p) => p.measureTitle.toLocaleLowerCase().includes(search.toLocaleLowerCase()));
-    const filterCode = measures.filter((p) => p.code.toLocaleLowerCase().includes(search.toLocaleLowerCase()));
-    const filterDescription = measures.filter((p) => p.description.toLocaleLowerCase().includes(search.toLocaleLowerCase()));
-  }
+    return (
+        <div>
+            {Object.entries(newObj).map(([key, val]) => (
+                <div key={key}>
+                    <label htmlFor={key}>{key}: </label>
+                    {key === "id" ? (
+                        <span>{val}</span>
+                    ) : !editing ? (
+                        <span>{val}</span>
+                    ) : (
+                        <input
+                            id={key}
+                            type="text"
+                            defaultValue={editedObj[key]}
+                            onBlur={(e) => handleEdit(key, e.target.value)}
+                            ref={inputRef}
+                        />
+                    )}
+                </div>
+            ))}
+        </div>
+    );
+};
 ```
 
-View code: <a href="https://github.com/alahele/alahele">
-Ala Hele </a>
-View organization: <a href="https://alahele.github.io/"> Ala Hele organization’s GitHub Page </a>
+**Key Contributions:**
+
+* Led the development and implementation of a full-stack web application using JavaScript.
+* Enhanced user experience by enabling visualization and manipulation of XML files in the browser.
+* Collaborated closely with a partner throughout all stages of the project, from conception to implementation.
+
+**Achievements:**
+
+* Enhanced proficiency in constructing secure full-stack web applications.
+* Strengthened skills in identifying and rectifying errors and malfunctions within web applications through thorough debugging practices.
+* Deepened understanding of complex data structures through practical application in the project.
+
+
+View code: <a href="https://github.com/wrench-project/simgrid-platform-file-visualizer">
+Simgrid XML Platform Description File Visualizer </a>
+
 
 
 
